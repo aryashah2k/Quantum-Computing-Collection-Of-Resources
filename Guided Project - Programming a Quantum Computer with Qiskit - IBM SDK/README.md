@@ -2,6 +2,7 @@
 
 **Step 1:**
 Go to https://quantum-computing.ibm.com/
+
 Create an account for accessing IBM Quantum Computers.
 
 **Step 2:**
@@ -11,6 +12,7 @@ Log in into your account and you can see preview of your workspace and IBM Quant
 
 **Step 3:**
 Go to your profile (My Account)
+
 Copy the token for accessing quantum computers in qiskit:
 
 ![Step 3](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/assets/Step%203.png)
