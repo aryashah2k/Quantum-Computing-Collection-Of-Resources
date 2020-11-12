@@ -1,2 +1,2 @@
 # Quantum-Computing-Collection-Of-Resources
-![Q.png](attachment:Q.png)
+![Quantum Header.png](attachment:Q.png)
