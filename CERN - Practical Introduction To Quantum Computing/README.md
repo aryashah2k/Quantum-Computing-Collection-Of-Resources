@@ -1,6 +1,6 @@
 ## CERN Practical Introduction To Quantum Computing
 
-![CERN Header](Add Link to CERN Header)
+![CERN Header](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/assets/CERN%20Header.jpg)
 
 Link to CERN Practical Introduction To Quantum Computing Website:
 
@@ -38,20 +38,20 @@ Lecture 6/7, Friday 11 December: https://indico.cern.ch/event/970908/
 
 Lecture 7/7, Friday 18 December: https://indico.cern.ch/event/970909/
 
-Google Drive Links To Lectures(High Definition Version):
+## Google Drive Links To Lectures(High Definition Version):
 
-(In case the Lectures are not Archived In Future By CERN.)
+*(In case the Lectures are not Archived In Future By CERN.)*
 
-Lecture 1: https://drive.google.com/file/d/1KkixHEsbePzOBShW80KPmXp89AdvUdjn/view?usp=sharing
+**Lecture 1:** https://drive.google.com/file/d/1KkixHEsbePzOBShW80KPmXp89AdvUdjn/view?usp=sharing
 
-Lecture 2:
+**Lecture 2:**
 
-Lecture 3:
+**Lecture 3:**
 
-Lecture 4:
+**Lecture 4:**
 
-Lecture 5:
+**Lecture 5:**
 
-Lecture 6:
+**Lecture 6:**
 
-Lecture 7:
+**Lecture 7:**
