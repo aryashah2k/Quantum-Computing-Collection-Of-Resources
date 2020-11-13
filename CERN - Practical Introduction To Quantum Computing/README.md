@@ -2,6 +2,8 @@
 
 ![CERN Header](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/assets/CERN%20Header.jpg)
 
+I shall be updating this section of the repository with all the Jupyter Notebooks, Video Lecture Links and Additional Useful Resources for this Course Offered By CERN. 
+
 Link to CERN Practical Introduction To Quantum Computing Website:
 
 https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november
