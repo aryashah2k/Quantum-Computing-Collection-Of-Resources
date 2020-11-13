@@ -36,4 +36,4 @@ In the next task you see other gates and how they operate on multiple qubits.
 
 (|0> + |1>)/sqrt(2)
 
-**|->** *Answer *
+**|->** *Answer*
