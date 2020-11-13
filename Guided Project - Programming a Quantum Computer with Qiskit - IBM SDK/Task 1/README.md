@@ -14,20 +14,20 @@ So here is a code cell in the Jupyter notebook; it has lines of Python code and 
 
 Next we recall complex numbers a complex number is of the form “a+bi” which ‘a’ and ‘b’ are real numbers and ‘i’ is and imaginary number, In Python the imaginary unit ‘i’ is instead represented as ‘j’, and must always be written with a coefficient, here we define a few complex number and print their real and imaginary part then do basic arithmetic operation on them:
 
-![Task 1 Snip 1](Add Task 1 Snip 1 Link)
+![Task 1 Snip 1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%201.png)
 
 There is also the concept of Complex Conjugate which we calculate the complex conjugate of a complex number by changing the imaginary part sign, this is how we do it in python using Numpy:
  
 
-![Task 1 Snip 2](Add Task 1 Snip 2 Link)
+![Task 1 Snip 2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%202.png)
 
 The abslute value of a complex number is calculated by multiplying it with its complex conjugate, here is how we do it:
 
-![Task 1 Snip 3](Add Task 1 Snip 3 Link)
+![Task 1 Snip 3](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%203.png)
 
 Matrices and Vectors form the foundation for quantum computing. Matrices are also called operators or quantum gates in the context of quantum computing. They can operate on a single qubit, or on many qubits simultaneously. Here is how we define row vectors and column vectors in python:
 
-![Task 1 Snip 4](Add Task 1 Snip 4 Link)
+![Task 1 Snip 4](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%204.png)
  
 Row vectors in quantum mechanics are also called bra-vectors and Column vectors are also called ket-vectors in quantum mechanics.
 
@@ -39,17 +39,17 @@ This will lead to a discussion of the Bloch sphere which will be a useful way of
 
 Below we show how we can take inner product of two vector:
 
-![Task 1 Snip 5](Add Task 1 Snip 5 Link)
+![Task 1 Snip 5](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%205.png)
 
 Pretty simple right?!
 
 Matrices form the foundation for quantum gates, Matrices are also called operators in the context of quantum computing, we can define matrices using np.array or np.matrix:
 
-![Task 1 Snip 6](Add Task 1 Snip 6 Link)
+![Task 1 Snip 6](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%206.png)
 
 Hermitian conjugates are given by taking the conjugate transpose of the matrix. This means we compute the complex conjugate of each entry, and then transpose the matrix. Generally, the Hermitian conjugate is denoted by M-dagger, let’s calculate it:
 
-![Task 1 Snip 7](Add Task 1 Snip 7 Link)
+![Task 1 Snip 7](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201/assets/Task%201%20Snip%207.png)
 
 In this section we will discuss how to take tensor products of matrices in order to later build quantum gates that operate on many qubits at once, Understanding the basics of tensor products of matrices is fundamental to understanding quantum logic gates and quantum circuits. you can see an example of how we can do tensor product of two matrices in general, we multiply each entity in the first matrix with other matrix and we get a matrix with larger dimension.
  
@@ -58,9 +58,9 @@ In the next task we will talk about Qubits and Qubit states.
  
 Quiz Questions: 
 
-** What is the real part and imaginary part of the numbers 12-3i, 28 in order? **
+**What is the real part and imaginary part of the numbers 12-3i, 28 in order?**
 
-** 12, 28 ** * Answer *
+**12, 28**  *Answer*
 
  -3, 28
 
