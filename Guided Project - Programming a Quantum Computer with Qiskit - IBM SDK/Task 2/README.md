@@ -29,3 +29,4 @@ As you see we can visualize these two states on Bloch Sphere too. Below you can 
 10
 
 7
+...
