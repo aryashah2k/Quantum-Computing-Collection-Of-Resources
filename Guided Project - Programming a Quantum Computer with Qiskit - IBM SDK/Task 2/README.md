@@ -10,21 +10,21 @@ There are Four different modules to use in Qiskit, they are called Terra, Ear, I
 
 We check whether Qiskit is installed correctly by typing following commands:
 
-![Task 2 Snip 1](Add Task 2 Snip 1 Link)
+![Task 2 Snip 1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202/assets/Task%202%20Snip%201.png)
 
 Qubits are the basic unit of computation in a quantum computer, we denote a Qubit state as a two dimensional vector with two complex amplitudes, you can think of qubit as a spin state of an electron, when the spin of electron is up we represent it with ket vector |0> and when the spin is up we represent it with ket vector |1>.
 
 We can also plot the spin state in so called Bloch sphere:
 
-![Task 2 Snip 2](Add Task 2 Snip 2 Link)
+![Task 2 Snip 2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202/assets/Task%202%20Snip%202.png)
 
 An electron can be in state plus or minus which is a superposition of up and down state. 
 
 As you see we can visualize these two states on Bloch Sphere too. Below you can see how we can prepare state of a two qubit system by using tensor product.
  
-** Quiz Question: What is the inner product of bra vector |-2 4> and ket vector |-1 3>? **
+**Quiz Question: What is the inner product of bra vector |-2 4> and ket vector |-1 3>?**
 
-** 14 ** *Answer*
+**14** *Answer*
 
 10
 
