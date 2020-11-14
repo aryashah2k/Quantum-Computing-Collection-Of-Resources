@@ -9,7 +9,7 @@ Current and Projected Contents In This Repository:
 
 # Guided Project on Programming a Quantum Computer With Qiskit-IBM SDK
 
-Fundamentals of Quantum Computation, Qubits, Bloch Sphere and Basis States, Quantum Gates and Circuits, Multiple Qubits, Entanglement, Bernstein-Vazirani Algorithm
+Set of Five Tasks with Guide On Pragramming A real Quantum Computer With Qiskit-IBM SDK
 	
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Task 1: Fundamentals Of Quantum Computing</a>
 
