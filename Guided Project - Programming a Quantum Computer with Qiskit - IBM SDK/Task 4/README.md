@@ -49,3 +49,4 @@ Bell states are entangled which means there is a high correlation between their 
 |01>+|10>
 
 **|11>-|11>** *Answer *
+...
