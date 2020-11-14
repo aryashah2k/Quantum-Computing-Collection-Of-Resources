@@ -26,16 +26,16 @@ Here we go through the example of two qubit calculation (in notebook), then we i
 (After explaining two qubit calculations) Here write the code for the mentioned steps above:
  
 
-![Task 5 Snip 1](Add Task 5 Snip 1 Link)
+![Task 5 Snip 1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%205/assets/Task%205%20Snip%201.png)
 
 As we promised we examine the circuit and see the result so that we can see the outcome in a single shot:
  
-![Task 5 Snip 1](Add Task 5 Snip 1 Link)
+![Task 5 Snip 2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%205/assets/Task%205%20Snip%202.png)
 
 As we can see the result is our desired outcome.
 
-** Quiz Questions: Is this sentence true: we only apply Hadamard gates on inputs qubits? **
+**Quiz Questions: Is this sentence true: we only apply Hadamard gates on inputs qubits?**
 
 It’s correct
 
-** *It’s incorrect ** * Answer * 
+**It’s incorrect** * Answer * 
