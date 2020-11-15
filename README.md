@@ -23,9 +23,19 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 
 # 2.CERN Practical Introduction To Quantum Computing
 
-Lecture 1	Lecture 2	Lecture 3	Lecture 4	Lecture 5
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%201%20Resources">Lecture 1[Code + Theory]</a>	
 
-Lecture 6	Lecture 7
+Lecture 2	
+
+Lecture 3	
+
+Lecture 4	
+
+Lecture 5
+
+Lecture 6	
+
+Lecture 7
 
 # 3.Mathematics For Quantum Computing In Python
 
