@@ -47,6 +47,7 @@ Lecture 7/7, Friday 18 December: https://indico.cern.ch/event/970909/
 **Lecture 1:** https://drive.google.com/file/d/1KkixHEsbePzOBShW80KPmXp89AdvUdjn/view?usp=sharing
 
 **Lecture 2:**
+https://drive.google.com/file/d/1Q9WaMYt6U8Krnc7p5EKEbgLx9seiiz1Z/view?usp=sharing
 
 **Lecture 3:**
 
