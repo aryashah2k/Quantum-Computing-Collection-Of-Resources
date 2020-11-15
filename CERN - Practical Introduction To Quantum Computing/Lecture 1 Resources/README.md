@@ -60,9 +60,9 @@ https://algassert.com/quirk
 
 ---*Ocean:Python Library for Quantum Annealing*
 
-https://www.dwavesys.com/take-leap
-
 ---*Problem Specific(QUBO,lsing Model)*
+
+https://www.dwavesys.com/take-leap
 
 **IBM Quantum Experience Website**
 
