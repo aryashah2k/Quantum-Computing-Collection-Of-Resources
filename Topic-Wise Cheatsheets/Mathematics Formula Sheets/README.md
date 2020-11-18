@@ -2,7 +2,7 @@
 
 ## Algebra
 
-![Algebra Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Algebra%20Snip.jpg)
+![Algebra Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Algebra%20Sheet%20Snip.jpg)
 
 ## Trigonometry-1
 
