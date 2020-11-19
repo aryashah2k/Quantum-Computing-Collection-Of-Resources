@@ -10,8 +10,8 @@
 
 ## Numpy
 
-![Numpy](Add Link)
+![Numpy](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Numpy.jpg)
 
 ## Matplotlib
 
-![Matplotlib](Add Link)
+![Matplotlib](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Matplotlib.jpg)
