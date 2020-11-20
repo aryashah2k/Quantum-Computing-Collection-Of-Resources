@@ -6,19 +6,45 @@ The Lecture 3 is divided into four parts:
 
 ## Part 1 - Quantum teleportation and superdense coding 
 
-<Add Content>
+### Quantum Teleportation
+
+*Refer Notes For More Details*
+
+![Quantum Teleportation Snip 1](Add Link)
+
+![Quantum Teleportation Circuit Snip](Add Link)
+
+### Super Dense Coding
+
+*Refer Notes For More Details*
+
+![Superdense Coding Snip](Add Link)
+
+![Superdense Coding Snip 2](Add Link)
 
 ## Part 2 - Deutsch’s algorithm
 
-<Add Content>
+*Refer Notes For More Details*
+
+![Deutsch Josza Snip](Add Link)
+
+![Deutsch Josza Circuit Snip](Add Link)
 
 ## Part 3 - Multiqubit systems
 
-<Add Content>
+*Refer Notes For More Details*
+
+### Toffoli Gate
+
+![Toffoli Multi Qubit Snip](Add Link)
 
 ## Part 4 - Quantum Parallelism
 
-<Add Content>
+*Refer Notes For More Details*
+
+![Quantum Parallelism Snip 2](Add Link)
+
+![Quantum Parallelism Snip](Add Link)
 
 ## All the Notebooks Have Been Run On IBM Quantum Experience Jupyter Notebooks.
 
