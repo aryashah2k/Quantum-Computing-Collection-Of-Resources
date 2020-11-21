@@ -67,10 +67,17 @@ List of Cheatsheets:
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Matplotlib.jpg">- Matplotlib Cheatsheet</a>
 
-# 4.Mathematics For Quantum Computing In Python
+# 4.QWorld's Global Quantum Programming Workshop | QBronze
 
-Python Code Implementations of Mathematics Needed For Quantum Computing
-Linear Algebra Programs,		Complex Numbers Programs,		Statistics,		Trigonometry.	
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">QBronze Diploma Workshop</a>
+
+### Contents:
+
+1.Basics Of Python
+
+2.Mathematics For Quantum Computing
+
+<!More To Add>
 
 # 5.Quantum Machine Learning
 
