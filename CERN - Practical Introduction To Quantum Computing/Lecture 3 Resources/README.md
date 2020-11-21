@@ -83,3 +83,5 @@ Thomas Vidick https://ocw.tudelft.nl/courses/quantum-cryptography/
 **Quantum Computers Technology**
 
 • The Building Blocks of a Quantum Computer, online course coordinated by Stephanie Wehner, Lieven Vandersypen, Menno Veldhorst, K.L.M. Bertels and L. DiCarlo, https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/
+
+...
