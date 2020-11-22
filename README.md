@@ -73,9 +73,11 @@ List of Cheatsheets:
 
 ### Contents:
 
-1.Basics Of Python
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Basics%20Of%20Python">1.Basics Of Python</a>
 
-2.Mathematics For Quantum Computing
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Mathematics%20For%20Quantum%20Computing">2.Mathematics For Quantum Computing</a>
+
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">3.Qiskit Basics</a>
 
 <!More To Add>
 
