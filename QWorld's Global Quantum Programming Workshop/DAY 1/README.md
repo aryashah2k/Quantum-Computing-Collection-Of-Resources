@@ -24,8 +24,8 @@
 
 ## Audio File For Lecture:
 
-![Day 1 Lecture Audio]()
+![Day 1 Lecture Audio](https://drive.google.com/file/d/1o6mKQ-PjeOk3ysGBC_hHSVVEoSTubdvJ/view?usp=sharing)
 
 ## Video File For Lecture:
 
-![Day 1 Lecture Video]()
+![Day 1 Lecture Video](https://drive.google.com/file/d/17eRlhQ14HXTgexhzaNpm4J5enYNGL6z2/view?usp=sharing)
