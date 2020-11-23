@@ -1,6 +1,6 @@
 # QBronze | Quantum Computing Workshop: DAY 1
 
-Topics Covered:
+### Topics Covered:
 
 0.Qiskit_Reference
 
