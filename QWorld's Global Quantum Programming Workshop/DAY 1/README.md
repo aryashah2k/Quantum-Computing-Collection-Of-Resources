@@ -22,10 +22,6 @@
 
 9.Hadamard Operator
 
-## Audio File For Lecture:
-
-<a href="https://drive.google.com/file/d/1o6mKQ-PjeOk3ysGBC_hHSVVEoSTubdvJ/view?usp=sharing">Day 1 Lecture Audio</a>
-
 ## Video File For Lecture:
 
 <a href="https://drive.google.com/file/d/17eRlhQ14HXTgexhzaNpm4J5enYNGL6z2/view?usp=sharing">Day 1 Lecture Video</a>
