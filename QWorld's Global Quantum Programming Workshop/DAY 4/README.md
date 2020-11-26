@@ -2,11 +2,9 @@
 
 ### Topics Covered:
 
-21.Entanglement
+21.Entanglement & Superdense Coding
 
-22.Superdense Coding
-
-23.Quantum Teleportation
+22.Quantum Teleportation
 
 
 
