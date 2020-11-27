@@ -16,7 +16,7 @@
 
 ## Video File For Lecture:
 
-<a href="Add Link">Day 5 Lecture Video</a>
+<a href="https://drive.google.com/file/d/1-82TleuBCmw1FDe2PemOHadick2fw8TO/view?usp=sharing">Day 5 Lecture Video</a>
 
 
 
