@@ -87,6 +87,7 @@ List of Cheatsheets:
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%204">Workshop DAY 4</a>
 
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%205">Workshop DAY 5</a>
 
 # 5.Quantum Machine Learning
 
