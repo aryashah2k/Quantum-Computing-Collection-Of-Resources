@@ -16,5 +16,8 @@
 
 16.Reflections
 
+## Video File For Lecture:
+
+<a href="https://drive.google.com/file/d/1i02nahvv9gKmuNKir1sTTy5uPwPNzUWF/view?usp=sharing">Day 2 Lecture Video</a>
 
 
