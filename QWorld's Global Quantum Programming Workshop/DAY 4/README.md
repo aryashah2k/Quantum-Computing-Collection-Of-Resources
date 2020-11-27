@@ -2,9 +2,9 @@
 
 ### Topics Covered:
 
-21.Entanglement & Superdense Coding
+24.Entanglement & Superdense Coding
 
-22.Quantum Teleportation
+25.Quantum Teleportation
 
 ## Video File For Lecture:
 

@@ -2,19 +2,19 @@
 
 ### Topics Covered:
 
-10.One Qubit
+13.One Qubit
 
-11.Quantum State
+14.Quantum State
 
-12.Visualization Of A Qubit
+15.Visualization Of A Qubit
 
-13.Superposition And Measurement
+16.Superposition And Measurement
 
-14.Operations On The Unit Circle
+17.Operations On The Unit Circle
 
-15.Rotations
+18.Rotations
 
-16.Reflections
+19.Reflections
 
 ## Video File For Lecture:
 
