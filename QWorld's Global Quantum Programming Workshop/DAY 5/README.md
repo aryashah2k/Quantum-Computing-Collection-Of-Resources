@@ -12,7 +12,7 @@
 
 30.Grover's Search - One Qubit Representation
 
-31. Grover's Search Implementation
+31.Grover's Search Implementation
 
 ## Video File For Lecture:
 
