@@ -2,23 +2,21 @@
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/Lecture%204%20Notes.pdf">Lecture 4 Notes</a>
 
-The Lecture 4 is divided into ---- parts:
+The Lecture 4 is divided into 3 parts:
 
-## Part 1 - <>
-
-*Refer Notes For More Details*
-
-## Part 2 - <>
+## Part 1 - The Deutsch-Jozsa Algorithm
 
 *Refer Notes For More Details*
 
 
-## Part 3 - <>
+
+
+## Part 2 - Grover's Algorithm
 
 *Refer Notes For More Details*
 
 
-## Part 4 - <>
+## Part 3 - Shor's Algorithm
 
 *Refer Notes For More Details*
 
