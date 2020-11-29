@@ -1,6 +1,6 @@
 # Lecture 4
 
-<a href="Add Link">Lecture 3 Notes</a>
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/Lecture%204%20Notes.pdf">Lecture 4 Notes</a>
 
 The Lecture 4 is divided into ---- parts:
 
