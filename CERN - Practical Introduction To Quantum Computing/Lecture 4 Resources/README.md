@@ -8,18 +8,42 @@ The Lecture 4 is divided into 3 parts:
 
 *Refer Notes For More Details*
 
+### Founding Fathers
 
+![Deutsch Josza](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Deutsch%20Josza%20Snip.png)
+
+![Deutsch Josza Correctness](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Deutsch-Josza%20Correctness%20Snip.png)
 
 
 ## Part 2 - Grover's Algorithm
 
 *Refer Notes For More Details*
 
+## Founding Father
+
+![Lov Grover](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Lov%20Kumar%20Grover.jpg)
+
+### Oracle Function
+
+![Oracle](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Grover%20Oracle%20Snip.png)
 
 ## Part 3 - Shor's Algorithm
 
 *Refer Notes For More Details*
 
+### Founding Father
+
+![Peter Shor](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Peter%20Shor.png)
+
+![Shor Correctness](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Shor%20Correctness.png)
+
+### Quantum Fourier Transform
+
+![QFT](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/Quantum%20Fourier%20Transform%20Snip.png)
+
+### Quantyum Phase Estimation To Solve Linear Equations
+
+![QFT PE](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources/assets/QFT%20Linear%20Equations%20Solve.png)
 
 ## All the Notebooks Have Been Run On IBM Quantum Experience Jupyter Notebooks.
 
