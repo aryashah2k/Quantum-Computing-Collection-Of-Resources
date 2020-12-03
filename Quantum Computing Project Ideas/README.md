@@ -8,31 +8,31 @@ The section has following project ideas in the form of Notebooks that one can vi
 
 1. Communication Via Superdense Coding
 
-Click Here To View The Notebook For Project Idea - 1
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Communication_via_Superdense_Coding.ipynb">Click Here To View The Notebook For Project Idea - 1</a>
 
 2. Correlation Game
 
-Click Here To View The Notebook For Project Idea - 2
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Correlation_Game.ipynb">Click Here To View The Notebook For Project Idea - 2</a>
 
 3.Implementing Quantum Teleportation
 
-Click Here To View The Notebook For Project Idea - 3
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Implementing_Quantum_Teleportation.ipynb">Click Here To View The Notebook For Project Idea - 3</a>
 
 4. Quantum Tomography With Many Qubits
 
-Click Here To View The Notebook For Project Idea - 4
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Quantum_Tomography_with_Many_Qubits.ipynb">Click Here To View The Notebook For Project Idea - 4</a>
 
 5. Simulating A Real Valued Qubit
 
-Click Here To View The Notebook For Project Idea - 5
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Simulating_a_RealValued_Qubit.ipynb">Click Here To View The Notebook For Project Idea - 5</a>
 
 6. Swapping Quantum States
 
-Click Here To View The Notebook For Project Idea - 6
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Swapping_Quantum_States.ipynb">Click Here To View The Notebook For Project Idea - 6</a>
 
-7. Your Quantum Simulator'
+7. Your Quantum Simulator
 
-Click Here To View The Notebook For Project Idea - 7
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Quantum%20Computing%20Project%20Ideas/Project_Your_Quantum_Simulator.ipynb">Click Here To View The Notebook For Project Idea - 7</a>
 
 ## Contributing
 
