@@ -31,11 +31,11 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources">Lecture 4[Code + Theory]</a>	
 
-Lecture 5
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources">Lecture 5[Code + Theory]</a>
+	
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%206%20Resources">Lecture 6[Code + Theory]</a>
 
-Lecture 6	
-
-Lecture 7
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources">Lecture 7[Code + Theory]</a>
 
 # 3.Cheatsheets
 
