@@ -56,6 +56,7 @@ https://drive.google.com/file/d/1CzxgoLeRXhVSjssdqDZFyBlIcsT0LvGo/view?usp=shari
 https://drive.google.com/file/d/1F8xjHBshjq0NAsCoO068gO2ZTgegVhrV/view?usp=sharing
 
 **Lecture 5:**
+https://drive.google.com/file/d/1hG-6tjIZZ8SRgJdRAM2KQXWQMZwPuKWV/view?usp=sharing
 
 **Lecture 6:**
 
