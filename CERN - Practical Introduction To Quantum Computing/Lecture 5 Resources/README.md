@@ -1,6 +1,6 @@
 # Lecture 5
 
-<a href="Add Link">Lecture 5 Notes</a>
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/Lecture%205%20Notes.pdf">Lecture 5 Notes</a>
 
 The Lecture 5 is divided into 3 part:
 
