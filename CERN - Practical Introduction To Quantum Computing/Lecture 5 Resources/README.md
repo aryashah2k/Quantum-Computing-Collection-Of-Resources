@@ -18,7 +18,7 @@ The Lecture 5 is divided into 3 part:
 
 ### Adiabatic Quantum Computing
 
-![Adiabatic Snip]()
+![Adiabatic Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/Adiabatic%20Snip.png)
 
 ### DWave Quantum Computers
 
