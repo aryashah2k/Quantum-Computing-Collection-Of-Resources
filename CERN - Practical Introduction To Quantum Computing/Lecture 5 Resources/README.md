@@ -10,11 +10,11 @@ The Lecture 5 is divided into 3 part:
 
 ### Max-Cut Problem
 
-![Max Cut Snip 1](Add Link)
+![Max Cut Snip 1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/Max%20Cut%20Snip%201.png)
 
 ### QUBO Quantum Unconstrained Binary Optimization
 
-![QUBO](Add Link)
+![QUBO](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/QUBO%20Snip.png)
 
 ### Adiabatic Quantum Computing
 
@@ -22,11 +22,13 @@ The Lecture 5 is divided into 3 part:
 
 ### DWave Quantum Computers
 
-![DWAVE Snip]()
+![DWAVE Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/DWAVE%20Snip.png)
 
 ### High Energy Physics
 
 <a href="https://www.nature.com/articles/nature24047">Link to Paper + Article</a>
+
+![High Energy Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/High%20Energy%20Snip.png)
 
 ## Part 2 - QAOA Quantum Approximate Optimization Algorithm
 
@@ -34,11 +36,13 @@ The Lecture 5 is divided into 3 part:
 
 <a href="https://arxiv.org/abs/1411.4028">Link to Paper [ARXiV]</a>
 
+![QAOA](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/QAOA%20Snip.png)
+
 ## Part 3 - Variational Quantum Eigensolver
 
 *Refer Notes For More Details*
 
-![Variational Qunatum Eigen Snip]()
+![Variational Qunatum Eigen Snip](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources/assets/Variational%20Quantum%20Eigen%20Solver.png)
 
 # Recommended Books And Resources:
 
