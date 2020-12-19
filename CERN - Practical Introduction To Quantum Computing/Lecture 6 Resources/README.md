@@ -1,6 +1,6 @@
 # Lecture 6
 
-<a href="">Lecture 6 Notes</a>
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%206%20Resources/Lecture%206%20Notes.pdf">Lecture 6 Notes</a>
 
 The Lecture 6 is divided into 4 parts:
 
