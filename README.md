@@ -1,11 +1,42 @@
 # Quantum-Computing-Collection-Of-Resources
 ![Quantum Header](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/assets/Quantum%20Header.png)
+## Donate / Support / Buy Me A Coffee!
 
-# Donate / Support / Buy Me A Coffee!
+<a href="https://www.patreon.com/bePatron?u=45451225">
+<img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
+</a>	
 
-<a href="https://ko-fi.com/aryashah">Buy Me A Coffee ☕, Donate as less as 2$</a>
-
-<a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
+<a href="https://ko-fi.com/aryashah">
+<img align="left" alt="Arya Shah | Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
+</a>
+<br>
+	
+## Follow/Connect With Me:
+	
+<a href="https://twitter.com/aryashah2k">
+  <img align="left" alt="Arya Shah | Twitter" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/arya--shah/">
+  <img align="left" alt="Arya's LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/arya_shah_00/">
+  <img align="left" alt="Arya's Instagram" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/aryashah2k/">
+  <img align="left" alt="Arya's Reddit" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg" />
+</a>
+<a href="https://stackoverflow.com/users/13949231/aryashah2k">
+  <img align="left" alt="Arya's Stackoverlfow" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg" />
+</a>
+<a href="mailto:aryashah2k@gmail.com">
+  <img align="left" alt="Arya's Person Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
+</a>
+<a href="mailto:arya.shah82@nmims.edu.in">
+  <img align="left" alt="Arya's Institute Email" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
+</a>
+<a href="https://aryashah.hashnode.dev">
+  <img align="left" alt="Arya's Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" />
+</a>
 
 # About 
 
