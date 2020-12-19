@@ -1,5 +1,6 @@
 # Quantum-Computing-Collection-Of-Resources
 ![Quantum Header](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/assets/Quantum%20Header.png)
+
 ## Donate / Support / Buy Me A Coffee!
 
 <a href="https://www.patreon.com/bePatron?u=45451225">
@@ -37,6 +38,7 @@
 <a href="https://aryashah.hashnode.dev">
   <img align="left" alt="Arya's Hashnode Blog" width="30px" src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/hashnode.svg" />
 </a>
+<br>
 
 # About 
 
