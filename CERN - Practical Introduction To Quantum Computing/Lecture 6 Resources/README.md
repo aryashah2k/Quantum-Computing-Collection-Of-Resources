@@ -8,45 +8,45 @@ The Lecture 6 is divided into 4 parts:
 
 *Refer Notes For More Details*
 
-![]()
+![QML]()
 
 ### QBLAS: The Quantum Basic Linear Algebra Subroutines
 
-![]()
+![QBLAS]()
 
 ### QRAM : Quantum Random Access Memory
 
-![]()
+![QRAM]()
 
 ### Translational QML And Speedups
 
-![]()
+![QML + Speedups]()
 
 ### QML in the times on NISQ
 
-![]()
+![NISQ]()
 
 ## Part 2 - Quantum Support Vector Machines
 
 *Refer Notes For More Details*
 
-![]()
+![QSVM]()
 
 ## Part 3 - Quantum Neural Networks: Deep Learning meets Quantum Computing
 
 *Refer Notes For More Details*
 
-![]()
+![QNN]()
 
 ### Power Of Quantum Neural Networks
 
-![]()
+![QNN Power]()
 
 ## Part 4 - Quantum Generative Adversarial Networks
 
 *Refer Notes For More Details*
 
-![]()
+![QGAN]()
 
 ## All the Notebooks Have Been Run On IBM Quantum Experience Jupyter Notebooks.
 
