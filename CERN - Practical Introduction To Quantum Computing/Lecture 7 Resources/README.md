@@ -1,6 +1,6 @@
 # Lecture 7
 
-<a href="">Lecture 7 Notes</a>
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources/Lecture%207%20Notes.pdf">Lecture 7 Notes</a>
 
 The Lecture 7 is divided into 2 parts:
 
@@ -34,7 +34,7 @@ The Lecture 7 is divided into 2 parts:
 
 ### Google Quantum Supremacy
 
-![Google Paper(https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources/assets/Google%20Quantum%20Supremacy.png)
+![Google Paper](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources/assets/Google%20Quantum%20Supremacy.png)
 
 ### IBM Challenge With Google Supremacy
 
