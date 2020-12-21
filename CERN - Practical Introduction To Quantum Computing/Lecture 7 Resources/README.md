@@ -62,6 +62,12 @@ The Lecture 7 is divided into 2 parts:
 
 ![IONQ](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources/assets/IONQ%20Quantum%20Roadmap.png)
 
+## Final Credits
+
+# A Big Thank You To The Organizers Of This 7 Lecture Series
+
+![Final Credits](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources/assets/Final%20Credits.png)
+
 # Recommended Books And Resources:
 
 **General Quantum Computing**
