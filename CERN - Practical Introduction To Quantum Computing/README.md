@@ -62,3 +62,4 @@ https://drive.google.com/file/d/1hG-6tjIZZ8SRgJdRAM2KQXWQMZwPuKWV/view?usp=shari
 https://drive.google.com/file/d/1ahvdHRKGWDtxNcczJ17ZMdPc4CWd9r_r/view?usp=sharing
 
 **Lecture 7:**
+https://drive.google.com/file/d/12uF5ujyUn0SlioMX9h-mOXXI7_e1rCoc/view?usp=sharing
