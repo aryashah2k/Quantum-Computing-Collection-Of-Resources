@@ -128,7 +128,7 @@ List of Cheatsheets:
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%205%20%2B%20DAY%206">Workshop DAY 5</a>
 
-# 5.Microsoft Azure Quantum Webinar Series + Workshop
+# 5.Microsoft Azure Quantum Resources
 
 ### Azure Quantum Webinar Series + Workshop
 
