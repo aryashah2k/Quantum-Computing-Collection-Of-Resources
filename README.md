@@ -142,7 +142,7 @@ List of Cheatsheets:
 
 **The Complete Folder Can Be Accessed Below:**
 
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start">QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]{Click To View}
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start">QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]{Click To View}</a>
 
 
 To Be Added Soon...!
