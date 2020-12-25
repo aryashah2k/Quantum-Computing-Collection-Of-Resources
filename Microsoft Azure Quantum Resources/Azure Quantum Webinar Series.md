@@ -25,10 +25,10 @@ Also, There Is A Complete Workshop (Duration Approx. 6 Hrs).
 
 | Session Name | View Link|
 |----------|----------|
-| Deutsch-Josza Algorithm | <a href="">Click To View</a> |
-| No-Cloning Theorem | <a href="">Click To View</a> |
-| Superdense Coding | <a href="">Click To View</a> |
-| Grover's Algorithm | <a href="">Click To View</a> |
+| Deutsch-Josza Algorithm | <a href="https://drive.google.com/file/d/1crzOTB_81TpHumZkSoiZw4sFSjm142Gb/view?usp=sharing">Click To View</a> |
+| No-Cloning Theorem | <a href="https://drive.google.com/file/d/1XE0az_-gKgVWHuo3KH0SVUnPf_SxCW5L/view?usp=sharing">Click To View</a> |
+| Superdense Coding | <a href="https://drive.google.com/file/d/1XXx-obNvRfKz1Mo_73oiySimmi0SJ7QV/view?usp=sharing">Click To View</a> |
+| Grover's Algorithm | <a href="https://drive.google.com/file/d/1xKjx1OqcGEno2dxQJUqYpjuta9CVGSEq/view?usp=sharing">Click To View</a> |
 
 **3. Azure Quantum Developer Workshop**
 
