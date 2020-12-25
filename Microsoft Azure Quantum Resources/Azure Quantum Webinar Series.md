@@ -34,5 +34,5 @@ Also, There Is A Complete Workshop (Duration Approx. 6 Hrs).
 
 | Session Name | View Link|
 |----------|----------|
-| Complete Quantum Developer Workshop - Azure | <a href="">Click To View</a> |
+| Complete Quantum Developer Workshop - Azure | <a href="https://drive.google.com/file/d/1B77LWpSdxauYo1HUOvMfp1q6myXnB0hI/view?usp=sharing">Click To View</a> |
 
