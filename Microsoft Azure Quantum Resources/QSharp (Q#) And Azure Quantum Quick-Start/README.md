@@ -8,7 +8,7 @@ The Complete Quick-Start Guide Is Divided Into 6 Parts:
 
 1. Introduction
 
-<a href="">Click To View Files</a>
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start/1.%20Introduction">Click To View Files</a>
 
 *In Progress:*
 
