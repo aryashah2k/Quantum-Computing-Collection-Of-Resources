@@ -16,10 +16,10 @@ Also, There Is A Complete Workshop (Duration Approx. 6 Hrs).
 
 | Session Name | View Link|
 |----------|----------|
-| Introduction To Qubits | <a href="">Click To View</a> |
-| Introduction To Complex Numbers | <a href="">Click To View</a> |
-| Introduction To Linear Algebra | <a href="">Click To View</a> |
-| Introduction To Bloch Sphere | <a href="">Click To View</a> |
+| Introduction To Qubits | <a href="https://drive.google.com/file/d/1xaiLxBZ4dR6R4ppwNAyDlOeSBCPzIGFi/view?usp=sharing">Click To View</a> |
+| Introduction To Complex Numbers | <a href="https://drive.google.com/file/d/1nDi5aNtuptUs-fccYbTqd57HUO7M1gE3/view?usp=sharing">Click To View</a> |
+| Introduction To Linear Algebra | <a href="https://drive.google.com/file/d/1KxfAlcSoatRqiCHjEn6DMh1V27SOejom/view?usp=sharing">Click To View</a> |
+| Introduction To Bloch Sphere | <a href="https://drive.google.com/file/d/14g86tDOQrlr57gkmM8zyaUP_f_00DuIL/view?usp=sharing">Click To View</a> |
 
 2. Advanced Sessions
 
@@ -34,5 +34,5 @@ Also, There Is A Complete Workshop (Duration Approx. 6 Hrs).
 
 | Session Name | View Link|
 |----------|----------|
-| Complete Quantum Developer Workshop | Azure | <a href="">Click To View</a> |
+| Complete Quantum Developer Workshop - Azure | <a href="">Click To View</a> |
 
