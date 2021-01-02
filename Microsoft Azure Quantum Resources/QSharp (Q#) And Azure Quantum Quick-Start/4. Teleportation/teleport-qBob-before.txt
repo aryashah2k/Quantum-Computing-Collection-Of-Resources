@@ -1,0 +1,3 @@
+# wave function for qubits with ids (least to most significant): 2
+∣0❭:	 1,000000 +  0,000000 i	 == 	******************** [ 1,000000 ]     --- [  0,00000 rad ]
+∣1❭:	 0,000000 +  0,000000 i	 == 	                     [ 0,000000 ]                   
