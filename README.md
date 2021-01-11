@@ -27,7 +27,7 @@ Current and Projected Contents In This Repository:
 
 # 1.Guided Project on Programming a Quantum Computer With Qiskit-IBM SDK
 
-|Task|Content|
+|Task|Content (Click To View)|
 |----|------|
 |Task 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Fundamentals Of Quantum Computing</a>|
 |Task 2|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202">Qubits, Bloch Sphere and Basis States</a>|
@@ -49,7 +49,7 @@ Current and Projected Contents In This Repository:
 
 # 3.Cheatsheets
 
-|No.|Topic|
+|No.|Topic (Click To View)|
 |--|-----|
 |1.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Mechanics%20Cheatsheet">Quantum Mechanics Cheatsheet</a>|
 |2.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Computing%20Cheatsheet">Quantum Computing Cheatsheet</a>|
@@ -81,26 +81,19 @@ Current and Projected Contents In This Repository:
 
 # 5.Microsoft Azure Quantum Resources
 
-**Main Folder Readme:** <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/README.md">Click To View</a>
-
-### 1. Azure Quantum Webinar Series + Workshop
-
-**The Complete Series + Workshop Can Be Accessed Below:**
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Azure%20Quantum%20Webinar%20Series.md">Azure Quantum Webinars + Workshop [Click To View]</a>
-
-### 2. QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]
-
-**The Complete Folder Can Be Accessed Below:**
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start">QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]{Click To View}</a>
-
-
-To Be Added Soon...!
-
+|No.|Link To View|
+|-----|-----|
+|🌟|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/README.md">Main Folder</a>|
+|1.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Azure%20Quantum%20Webinar%20Series.md">Azure Quantum Webinars + Workshop [Click To View]</a>|
+|2.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start">QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]</a>|
+|-|More To Be Added Soon!|
 
 # 6.Quantum Machine Learning
 
-To Be Added Soon...!
+|Content|Link To View|
+|---|---|
+|-|To Be Added Soon|
+
+# Show Some ❤️, Give a ⭐ To This Repository!
 
 
