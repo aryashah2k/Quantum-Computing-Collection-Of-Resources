@@ -27,8 +27,6 @@ Current and Projected Contents In This Repository:
 
 # 1.Guided Project on Programming a Quantum Computer With Qiskit-IBM SDK
 
-Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-IBM SDK
-
 |Task|Content|
 |----|------|
 |Task 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Fundamentals Of Quantum Computing</a>|
@@ -51,33 +49,21 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 
 # 3.Cheatsheets
 
-List of Cheatsheets:
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Mechanics%20Cheatsheet">1.Quantum Mechanics Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Computing%20Cheatsheet">2.Quantum Computing Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets">3.Mathematics Formula Sheets:</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Algebra%20Sheet%20Snip.jpg">- Algebra Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Trigonometry%20Sheet%20Snip%201.jpg">- Trigonometry - 1 Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Trigonometry%20Sheet%20Snip%202.jpg">- Trigonometry - 2 Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Calculus%20Derivatives%20Snip.jpg">- Calculus - Derivatives Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Calculus%20Integration%20Snip.jpg">- Calculus - Integration Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets">4.Python + Useful Libraries Cheatsheets</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Python%20Basics.jpg">- Python Basics Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Jupyter%20Notebooks.jpg">- Jupyter Notebook Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Numpy.jpg">- NumPy Cheatsheet</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Matplotlib.jpg">- Matplotlib Cheatsheet</a>
+|No.|Topic|
+|--|-----|
+|1.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Mechanics%20Cheatsheet">Quantum Mechanics Cheatsheet</a>|
+|2.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Quantum%20Computing%20Cheatsheet">Quantum Computing Cheatsheet</a>|
+|⭐|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets">Mathematics Formula Sheets</a>|
+|3.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Algebra%20Sheet%20Snip.jpg">Algebra Cheatsheet</a>|
+|4.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Trigonometry%20Sheet%20Snip%201.jpg">Trigonometry - 1 Cheatsheet</a>|
+|5.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Trigonometry%20Sheet%20Snip%202.jpg">Trigonometry - 2 Cheatsheet</a>|
+|6.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Calculus%20Derivatives%20Snip.jpg">Calculus - Derivatives Cheatsheet</a>|
+|7.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Mathematics%20Formula%20Sheets/assets/Calculus%20Integration%20Snip.jpg">Calculus - Integration Cheatsheet</a>|
+|⭐|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets">Python + Useful Libraries Cheatsheets</a>|
+|8.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Python%20Basics.jpg">Python Basics Cheatsheet</a>|
+|9.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Jupyter%20Notebooks.jpg">Jupyter Notebook Cheatsheet</a>|
+|10.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Numpy.jpg">NumPy Cheatsheet</a>|
+|11.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Topic-Wise%20Cheatsheets/Python%20%2B%20Useful%20Libraries%20Cheatsheets/assets/Matplotlib.jpg">Matplotlib Cheatsheet</a>|
 
 # 4.QWorld's Global Quantum Programming Workshop | QBronze
 
