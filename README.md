@@ -28,7 +28,17 @@ Current and Projected Contents In This Repository:
 # 1.Guided Project on Programming a Quantum Computer With Qiskit-IBM SDK
 
 Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-IBM SDK
-	
+
+|Task|Content|
+|----|------|
+|Task 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Fundamentals Of Quantum Computing</a>|
+|Task 2|
+<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202">Qubits, Bloch Sphere and Basis States</a>|
+|Task 3|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%203">Quantum Gates and Circuits</a>|
+|Task 4|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%204">Multiple Qubits, Entanglement</a>|
+|Task 5|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%205">Bernstein-Vazirani Algorithm</a>|
+
+<----To Remove------	
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Task 1: Fundamentals Of Quantum Computing</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202">Task 2: Qubits, Bloch Sphere and Basis States</a>	
@@ -38,9 +48,21 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%204">Task 4: Multiple Qubits, Entanglement</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%205">Task 5: Bernstein-Vazirani Algorithm</a>
+>
 
 # 2.CERN Practical Introduction To Quantum Computing
 
+|Lecture|Link To View|
+|-----|-----|
+|Lecture 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%201%20Resources">Lecture 1[Code + Theory]</a>	|
+|Lecture 2|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%202%20Resources">Lecture 2[Code + Theory]</a>|
+|Lecture 3|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%203%20Resources">Lecture 3[Code + Theory]</a>|
+|Lecture 4|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%204%20Resources">Lecture 4[Code + Theory]</a>|
+|Lecture 5|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%205%20Resources">Lecture 5[Code + Theory]</a>|
+|Lecture 6|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%206%20Resources">Lecture 6[Code + Theory]</a>|
+|Lecture 7|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources">Lecture 7[Code + Theory]</a>|
+
+<----To Remove------
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%201%20Resources">Lecture 1[Code + Theory]</a>	
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%202%20Resources">Lecture 2[Code + Theory]</a>	
@@ -54,6 +76,7 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%206%20Resources">Lecture 6[Code + Theory]</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/CERN%20-%20Practical%20Introduction%20To%20Quantum%20Computing/Lecture%207%20Resources">Lecture 7[Code + Theory]</a>
+>
 
 # 3.Cheatsheets
 
