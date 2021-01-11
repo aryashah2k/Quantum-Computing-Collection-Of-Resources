@@ -67,25 +67,17 @@ Current and Projected Contents In This Repository:
 
 # 4.QWorld's Global Quantum Programming Workshop | QBronze
 
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">QBronze Diploma Workshop</a>
-
-### Contents:
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Basics%20Of%20Python">1.Basics Of Python</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Mathematics%20For%20Quantum%20Computing">2.Mathematics For Quantum Computing</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">3.Qiskit Basics</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%201">Workshop DAY 1</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%202">Workshop DAY 2</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%203">Workshop DAY 3</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%204">Workshop DAY 4</a>
-
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%205%20%2B%20DAY%206">Workshop DAY 5</a>
+|Content|Link To View|
+|-----|-----|
+|🌟|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">QBronze Diploma Workshop</a>|
+|⭐|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Basics%20Of%20Python">1.Basics Of Python</a>|
+|⭐|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/Mathematics%20For%20Quantum%20Computing">2.Mathematics For Quantum Computing</a>|
+|⭐|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop">3.Qiskit Basics</a>|
+|Day 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%201">Workshop DAY 1</a>|
+|Day 2|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%202">Workshop DAY 2</a>|
+|Day 3|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%203">Workshop DAY 3</a>|
+|Day 4|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%204">Workshop DAY 4</a>|
+|Day 5|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/QWorld's%20Global%20Quantum%20Programming%20Workshop/DAY%205%20%2B%20DAY%206">Workshop DAY 5</a>|
 
 # 5.Microsoft Azure Quantum Resources
 
