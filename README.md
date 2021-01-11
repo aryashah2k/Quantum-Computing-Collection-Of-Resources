@@ -32,8 +32,7 @@ Set of Five Tasks with Guide On Programming A Real Quantum Computer With Qiskit-
 |Task|Content|
 |----|------|
 |Task 1|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%201">Fundamentals Of Quantum Computing</a>|
-|Task 2|
-<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202">Qubits, Bloch Sphere and Basis States</a>|
+|Task 2|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%202">Qubits, Bloch Sphere and Basis States</a>|
 |Task 3|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%203">Quantum Gates and Circuits</a>|
 |Task 4|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%204">Multiple Qubits, Entanglement</a>|
 |Task 5|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Guided%20Project%20-%20Programming%20a%20Quantum%20Computer%20with%20Qiskit%20-%20IBM%20SDK/Task%205">Bernstein-Vazirani Algorithm</a>|
