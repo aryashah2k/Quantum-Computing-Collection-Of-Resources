@@ -1,16 +1,7 @@
 # Quantum-Computing-Collection-Of-Resources
 ![Quantum Header](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/assets/Quantum%20Header.png)
 
-## Donate / Support / Buy Me A Coffee!
-
-<a href="https://www.patreon.com/bePatron?u=45451225">
-<img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
-</a>	
-
-<a href="https://ko-fi.com/aryashah">
-<img align="left" alt="Arya Shah | Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
-</a>
-<br>
+<a href="https://ko-fi.com/aryashah">Buy Me A Coffee ☕, Donate as less as 2$</a> | <a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
 	
 ## Follow/Connect With Me:
 	
