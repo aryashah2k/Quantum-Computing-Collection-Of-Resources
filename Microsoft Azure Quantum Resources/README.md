@@ -16,8 +16,7 @@
 
 |No.|Content|Link To View|
 |--|-----|-----|
-|1.|Main Folder|<a href="
-https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests">Click To View</a>|
+|1.|Main Folder|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests">Click To View</a>|
 |2.|2018-Coding Contest Problems And Solutions|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202018">Click To View</a>|
 |3.|2019-Coding Contest Problems And Solutions|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202019">Click To View</a>|
 |4.|2020-Coding Contest Problems And Solutions|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020">Click To View</a>|
