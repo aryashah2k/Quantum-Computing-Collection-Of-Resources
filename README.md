@@ -77,7 +77,9 @@ Current and Projected Contents In This Repository:
 |🌟|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/README.md">Main Folder</a>|
 |1.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Azure%20Quantum%20Webinar%20Series.md">Azure Quantum Webinars + Workshop [Click To View]</a>|
 |2.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/QSharp%20(Q%23)%20And%20Azure%20Quantum%20Quick-Start">QSharp (Q#) And Azure Quantum Quick-Start [Code+Theory]</a>|
-|-|More To Be Added Soon!|
+|3.|<a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/tree/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests">Microsoft Q# Coding Contest Solutions</a>|
+
+
 
 # 6.Quantum Machine Learning
 
