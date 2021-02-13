@@ -39,9 +39,17 @@ The quantum classification library that will use your model to classify the data
 This tutorial <a href="https://github.com/microsoft/MLADS2020-QuantumClassification">here</a> has an end-to-end example of training a model using this library as a Python notebook.
 You can find examples of training a model and using it for classification <a href="https://github.com/microsoft/Quantum/tree/master/samples/machine-learning/">here</a>
 
+<a href="https://assets.codeforces.com/rounds/1356/training_data1.json">Dataset File</a>
+
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Warmup/D1.qs">Click To View Solution</a>
 
 ![D2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Warmup/assets/2020%20Warmup%2010%20Part%201.png)
 ![D2-2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Warmup/assets/2020%20Warmup%2010%20Part%202.png)
+
+The quantum classification library that will use your model to classify the data is documented <a href="https://docs.microsoft.com/quantum/libraries/machine-learning/">here</a>
+This tutorial <a href="https://github.com/microsoft/MLADS2020-QuantumClassification">here</a> has an end-to-end example of training a model using this library as a Python notebook.
+You can find examples of training a model and using it for classification <a href="https://github.com/microsoft/Quantum/tree/master/samples/machine-learning/">here</a>
+
+<a href="https://assets.codeforces.com/rounds/1356/training_data2.json">Dataset File</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Warmup/D2.qs">Click To View Solution</a>
