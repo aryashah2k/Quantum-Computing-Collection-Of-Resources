@@ -49,33 +49,52 @@
 ![D1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2012-1.png)
 ![D1-2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2012-2.png)
 
+The quantum classification library that will use your model to classify the data is documented <a href"https://docs.microsoft.com/quantum/libraries/machine-learning/">here</a>
+This <a href="https://github.com/microsoft/MLADS2020-QuantumClassification">tutorial</a> has an end-to-end example of training a model using this library as a Python notebook.
+The <a href="https://codeforces.com/blog/entry/78832">warmup round editorial</a> discusses solving easier problems features in the warmup round.
+You can find the exact implementation of the testing harness for the D problems of this round, including the preprocessing methods, <a href="https://github.com/tcNickolas/MiscQSharp/tree/master/CodingContest2020-QML">here</a>
+You can find examples of training a model and using it for classification <a href="https://github.com/microsoft/Quantum/tree/master/samples/machine-learning/">here</a>
+
+<a href="https://assets.codeforces.com/rounds/1357/training_data3.json">Dataset Files</a>
+
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/D1.qs">Click To View Solutions</a>
 
 
 ![D2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2013.png)
+
+<a href="https://assets.codeforces.com/rounds/1357/training_data4.json">Dataset Files</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/D2.qs">Click To View Solutions</a>
 
 
 ![D3](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2014.png)
 
+<a href="https://assets.codeforces.com/rounds/1357/training_data5.json">Dataset Files</a>
+
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/D3.qs">Click To View Solutions</a>
 
 
 ![D4](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2015.png)
+
+<a href="https://assets.codeforces.com/rounds/1357/training_data6.json">Dataset Files</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/D4.qs">Click To View Solutions</a>
 
 
 ![D5](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2016.png)
 
+<a href="https://assets.codeforces.com/rounds/1357/training_data7.json">Dataset Files</a>
+
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/D5.qs">Click To View Solutions</a>
 
-
 ![E1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Offical%2017.png)
+
+You can learn more about QFT in this <a href="https://github.com/microsoft/QuantumKatas/tree/master/QFT">kata</a>. You are allowed to take advantage of library operations, including <a href="https://docs.microsoft.com/en-us/qsharp/api/qsharp/microsoft.quantum.canon.qftle">QFTLE</a> which implements the necessary transform in the first power.
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/E1.qs">Click To View Solutions</a>
 
 ![E2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2018.png)
+
+You can learn more about QFT in this <a href="https://github.com/microsoft/QuantumKatas/tree/master/QFT">kata</a>. You are allowed to take advantage of library operations, including <a href="https://docs.microsoft.com/en-us/qsharp/api/qsharp/microsoft.quantum.canon.qftle">QFTLE</a>
 
 <a href="https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/E2.qs">Click To View Solutions</a>
