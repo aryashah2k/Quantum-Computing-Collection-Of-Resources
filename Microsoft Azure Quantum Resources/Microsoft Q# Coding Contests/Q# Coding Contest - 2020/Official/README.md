@@ -49,7 +49,7 @@
 ![D1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2012-1.png)
 ![D1-2](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202020/Official/assets/2020%20Official%2012-2.png)
 
-The quantum classification library that will use your model to classify the data is documented <a href"https://docs.microsoft.com/quantum/libraries/machine-learning/">here</a>
+The quantum classification library that will use your model to classify the data is documented <a href="https://docs.microsoft.com/quantum/libraries/machine-learning/">here</a>
 This <a href="https://github.com/microsoft/MLADS2020-QuantumClassification">tutorial</a> has an end-to-end example of training a model using this library as a Python notebook.
 The <a href="https://codeforces.com/blog/entry/78832">warmup round editorial</a> discusses solving easier problems features in the warmup round.
 You can find the exact implementation of the testing harness for the D problems of this round, including the preprocessing methods, <a href="https://github.com/tcNickolas/MiscQSharp/tree/master/CodingContest2020-QML">here</a>
