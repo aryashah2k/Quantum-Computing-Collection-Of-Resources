@@ -1,4 +1,4 @@
-# # Official Round - 2019
+# Official Round - 2019
 
 ![A1](https://github.com/aryashah2k/Quantum-Computing-Collection-Of-Resources/blob/main/Microsoft%20Azure%20Quantum%20Resources/Microsoft%20Q%23%20Coding%20Contests/Q%23%20Coding%20Contest%20-%202019/Official%20Round/assets/2019%20Official%201.png)
 
