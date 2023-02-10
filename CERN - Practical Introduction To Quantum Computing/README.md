@@ -40,26 +40,26 @@ Lecture 6/7, Friday 11 December: https://indico.cern.ch/event/970908/
 
 Lecture 7/7, Friday 18 December: https://indico.cern.ch/event/970909/
 
-## Google Drive Links To Lectures(High Definition Version):
+## Terabox Links To Lectures(High Definition Version):
 
 *(In case the Lectures are not Archived In Future By CERN.)*
 
-**Lecture 1:** https://drive.google.com/file/d/1KkixHEsbePzOBShW80KPmXp89AdvUdjn/view?usp=sharing
+**Lecture 1:** 
+
 
 **Lecture 2:**
-https://drive.google.com/file/d/1Q9WaMYt6U8Krnc7p5EKEbgLx9seiiz1Z/view?usp=sharing
+
 
 **Lecture 3:**
-https://drive.google.com/file/d/1CzxgoLeRXhVSjssdqDZFyBlIcsT0LvGo/view?usp=sharing
+
 
 **Lecture 4:**
-https://drive.google.com/file/d/1F8xjHBshjq0NAsCoO068gO2ZTgegVhrV/view?usp=sharing
+
 
 **Lecture 5:**
-https://drive.google.com/file/d/1hG-6tjIZZ8SRgJdRAM2KQXWQMZwPuKWV/view?usp=sharing
+
 
 **Lecture 6:**
-https://drive.google.com/file/d/1ahvdHRKGWDtxNcczJ17ZMdPc4CWd9r_r/view?usp=sharing
+
 
 **Lecture 7:**
-https://drive.google.com/file/d/12uF5ujyUn0SlioMX9h-mOXXI7_e1rCoc/view?usp=sharing
