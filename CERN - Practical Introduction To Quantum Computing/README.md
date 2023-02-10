@@ -45,21 +45,22 @@ Lecture 7/7, Friday 18 December: https://indico.cern.ch/event/970909/
 *(In case the Lectures are not Archived In Future By CERN.)*
 
 **Lecture 1:** 
-
+https://teraboxapp.com/s/1PzF_GGEX2xEk0Xt7YONp2Q
 
 **Lecture 2:**
-
+https://teraboxapp.com/s/1waKWvWzK0RfUdVrTZrlEew
 
 **Lecture 3:**
-
+https://teraboxapp.com/s/1BvAr5QArJcseYH5vekRQKQ
 
 **Lecture 4:**
-
+https://teraboxapp.com/s/1wIZ3COFmRFztE0rdNuFuYg
 
 **Lecture 5:**
-
+https://teraboxapp.com/s/1PjfaUxnYO2ALIAegVgDVrw
 
 **Lecture 6:**
-
+https://teraboxapp.com/s/1SFZ8TchSd4o5IpfiD6qFEg
 
 **Lecture 7:**
+https://teraboxapp.com/s/18YBSsabQ87HeLJII-4COWw
